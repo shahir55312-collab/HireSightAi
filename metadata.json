@@ -1,0 +1,14 @@
+{
+  "name": "HireSight AI",
+  "description": "Advanced Interview Readiness Intelligence Platform for students and fresh graduates. Predicts real-world interview outcomes using AI-powered recruiter intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Interview Arena",
+    "Resume Intelligence Engine",
+    "Recruiter Perception System",
+    "Stress Simulation Engine"
+  ]
+}
