@@ -4,6 +4,7 @@ HireSight AI is an AI-powered interview readiness platform designed to help stud
 
 Instead of discovering weaknesses after failed interviews, HireSight AI analyzes resumes, communication patterns, portfolio presence, and online profiles to generate an overall Interview Readiness Score with actionable improvements.
 
+LIVE WEBAPP LINK : https://aistudio.google.com/apps/bef7f945-5cb4-42e3-9319-9eedede3474e?showAssistant=true&appParams=arena&showPreview=true&fullscreenApplet=true
 
 ---
 
